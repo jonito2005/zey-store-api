@@ -64,7 +64,7 @@ ZeyStore API
 ## 🚀 Instalasi
 1. Clone repository
    ```bash
-   git clone <repository-url>
+   git clone [https://github.com/jonito2005/zey-store-api.git]
    cd zey-store-api
    ```
 
